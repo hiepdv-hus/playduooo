@@ -1,0 +1,9 @@
+.footer {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.footer-lst {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+}

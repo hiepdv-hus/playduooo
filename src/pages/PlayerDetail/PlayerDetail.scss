@@ -1,0 +1,13 @@
+.player-detail{
+
+}
+//repeat(auto-fill, 150px)
+@media (min-width: 0px) {
+  .player-detail { width: 100vw; }
+}
+
+@media (min-width: 768px) {
+  .player-detail { width: calc(100vw - 64px); }
+}
+
+//calc(100vw - 64px)
